@@ -1,14 +1,20 @@
-# cooler_themes
+# `cooler_themes` 👩🏼‍🎨🎨
 
-A new Flutter package project.
+> A collection of beautiful themes for your next Flutter app
 
-## Getting Started
+* [**Package info on `pub.dev`**](https://pub.dev/packages/cooler_themes)
+* [**Source code**](https://github.com/dartsidedev/cooler_themes)
+* [**Issues**](https://github.com/dartsidedev/cooler_themes/issues)
+* [**Docs**](https://pub.dev/documentation/cooler_themes/latest/)
+* [**Examples**](https://github.com/dartsidedev/cooler_themes/tree/master/example)
+* [**Travis CI**](https://travis-ci.com/dartsidedev/cooler_themes)
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+[![Build Status](https://travis-ci.com/dartsidedev/cooler_themes.svg?branch=master)](https://travis-ci.com/dartsidedev/cooler_themes)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+Well, it's an empty project at the moment, so there's not much to document here...
+
+## Examples
+
+Examples are coming soon. Hopefully. If I don't forget finishing this project after I come back from walk.
